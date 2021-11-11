@@ -1,3 +1,9 @@
+# .gitignore
+
+## IDE
+.vscode/
+
+## Project
 *.[oa]
 *.exe
 *.so
