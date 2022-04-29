@@ -1,5 +1,9 @@
 # .gitignore
 
+## OS
+.DS_Store
+desktop.ini
+
 ## IDE
 .vscode/
 
